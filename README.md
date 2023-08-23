@@ -58,7 +58,7 @@ Contributions to enhance the provided workflows or add new differential expressi
 
 ## Contact
 
-For questions or feedback related to the Differential Expression Workflows project, you can contact Naomi Kato at [naomikato@example.com](mailto:naomikato@example.com).
+For questions or feedback related to the Differential Expression Workflows project, you can contact Naomi Kato at [naomikato@lcorpnow.com](mailto:naomikato@lcorpnow.com).
 
 Thank you for exploring the Differential Expression Workflows repository and its potential for identifying differentially expressed genes!
 
